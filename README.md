@@ -3,6 +3,8 @@
 
 # A 3D model of the bust of Livia, gallery 70
 
+![](a_bust_of_livia.gif)
+
 3D data for recreation of a British Museum object.
 
 A scan of a marble head of Livia. 
